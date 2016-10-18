@@ -1,0 +1,34 @@
+h1{
+  foreground-color: #A4A400;
+  background-color: #F0F0F0;
+  color:#808000;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 22pt;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial;
+}
+h2{
+  foreground-color: #A4A400;
+  background-color: #F0F0F0;
+  color:#808000;
+  text-align: left;
+  text-decoration: underline;
+  font-size: 18pt;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial;
+}
+#para1{
+    background-color: #FFFFA8;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-style: italic
+}
+
+#para2{
+  text-align: center;
+}
+a{
+  color:#A4A400;
+}
+#strike_line{
+  text-decoration: line-through;
+}

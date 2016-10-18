@@ -1,0 +1,30 @@
+h1{
+  foreground-color: #A4A400;
+  background-color: #FAF0E6;
+  color:#808000;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: 22;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial;
+}
+
+h2{
+  margin-right: 150px;
+   margin-left: 80px;
+  foreground-color: #FAF0E6;
+  color:#2F4F4F;
+  text-align: left;
+  text-decoration: underline;
+  font-weight: 22;
+  font-family: "Lucida Sans Unicode", Helvetica, Arial;
+}
+h3{
+   margin-right: 150px;
+    margin-left: 80px;
+  color:#00000;
+  font-style: italic;
+  font-style: bold;
+}
+#para2{
+  text-align: center;
+};
